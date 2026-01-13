@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Rockstar Made",
+  "base_artist": "Playboi Carti",
+  "createdAt": "2026-01-13T18:38:42.969671Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rockstar Made",
+      "artist": "Playboi Carti",
+      "has_synced": true,
+      "path": "select/01_Rockstar_Made_Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Playboi Carti - Rockstar Made (Official Audio)",
+      "artist": "Playboi Carti",
+      "has_synced": true,
+      "path": "select/02_Playboi_Carti_-_Rockstar_Made_(Official_Audio)_Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rockstar Made",
+      "artist": "Playboi Carti",
+      "has_synced": true,
+      "path": "select/03_Rockstar_Made_Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rockstar Made",
+      "artist": "Playboi Carti",
+      "has_synced": true,
+      "path": "select/04_Rockstar_Made_Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rockstar Made",
+      "artist": "Playboi Carti",
+      "has_synced": true,
+      "path": "select/05_Rockstar_Made_Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rockstar Made",
+      "artist": "Playboi Carti",
+      "has_synced": true,
+      "path": "select/06_Rockstar_Made_Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Playboi Carti - Rockstar Made (Official Audio)",
+      "artist": "Playboi Carti",
+      "has_synced": true,
+      "path": "select/07_Playboi_Carti_-_Rockstar_Made_(Official_Audio)_Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rockstar Made",
+      "artist": "Playboi Carti",
+      "has_synced": true,
+      "path": "select/08_Rockstar_Made_Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Playboi Carti - Rockstar Made (Official Audio)",
+      "artist": "Playboi Carti",
+      "has_synced": true,
+      "path": "select/09_Playboi_Carti_-_Rockstar_Made_(Official_Audio)_Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rockstar Made (Paused)",
+      "artist": "Playboi Carti",
+      "has_synced": true,
+      "path": "select/10_Rockstar_Made_(Paused)_Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rockstar Made",
+      "artist": "playboicarti",
+      "has_synced": true,
+      "path": "select/11_Rockstar_Made_playboicarti.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rockstar Made",
+      "artist": "Playboi Carti",
+      "has_synced": false,
+      "path": "select/pl_01_Rockstar_Made_Playboi_Carti.txt"
+    }
+  ]
+}
